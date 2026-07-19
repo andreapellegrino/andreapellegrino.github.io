@@ -1,2 +1,2 @@
 # andreapellegrino.github.io
-Personal website hosted on github
+Personal website handwritte as lern experience and hosted on github  - visit andreapellegrino.github.com
